@@ -8,12 +8,16 @@ Sou formado em Ciências Contábeis e estou cursando Engenharia de Software 🎓
 
 - 🔭 Atualmente estou estagiando na Foursys utilizando a LP Java.
 - 🌱 Atualmente estou aprendendo:<br><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40"/>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40"/>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40"/>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <br><br>
+                                 
+
                                   
 - ⚡ Curiosidade: Adoro análisar empresas e seus sistemas, afinal já trabalhei como consultor financeiro e tenho conhecimento do que as empresas necessitam.                        
 
