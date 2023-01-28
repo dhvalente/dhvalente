@@ -3,7 +3,7 @@
 
 ## Olá, me chamo Diogo Valente ! 
 ### Bem vindo ao meu perfil GitHub 👋
-Sou formado em Ciências Contábeis e estou cursando Engenharia de Software 🎓.Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com diversas tecnologias 💡 Adoro resolver problemas da vida real. ✨ Atualmente estou focado em Desenvolvimento Web  🕸️.
+Estou cursando Engenharia de Software 🎓.Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com diversas tecnologias 💡 Adoro resolver problemas da vida real. ✨ Atualmente estou focado em Desenvolvimento Web  🕸️.
 
 
 - 🔭 Atualmente estou como trainee na Foursys utilizando a LP Java.
