@@ -3,10 +3,10 @@
 
 ## Olá, me chamo Diogo Valente ! 
 ### Bem vindo ao meu perfil GitHub 👋
-Estou cursando Engenharia de Software 🎓.Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com diversas tecnologias 💡 Adoro resolver problemas da vida real. ✨ Atualmente estou focado em Desenvolvimento Web  🕸️.
+Estou cursando Engenharia de Software 🎓 Adoro resolver problemas da vida real. ✨ Atualmente estou focado em Desenvolvimento Web  🕸️.
 
 
-- 🔭 Atualmente estou como Junior na Foursys utilizando a LP Java.
+- 🔭 Atualmente Desenvolvedor Fullstack na Foursys utilizando Java e Angular/JSP/JSF.
 - 🌱 Estou aprendendo:<br><br>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40"/>
                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
