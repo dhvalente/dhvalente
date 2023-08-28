@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
-## Olá, me chamo Diogo Valente ! 
-### Bem vindo ao meu perfil GitHub 👋
-Estou cursando Engenharia de Software 🎓 Adoro resolver problemas da vida real. ✨ Atualmente estou focado em Desenvolvimento Web  🕸️.
+
+Seja muito bem-vindo ao meu perfil. Sou Diogo Valente, e neste momento, ocupo a posição de desenvolvedor fullstack em projetos no Banco Bradesco. Tenho uma verdadeira paixão por desafios, acreditando que quanto mais desafiadora a tarefa, mais gratificante será o resultado. Destaco-me pela minha determinação e dedicação, estou sempre em busca de ampliar meu conhecimento e experiências.
 
 
 - 🔭 Atualmente Desenvolvedor Fullstack na Foursys utilizando Java e Angular/JSP/JSF.
