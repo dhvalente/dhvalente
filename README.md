@@ -6,7 +6,7 @@
 
 # Welcome To My GitHub Profile !
 
-Welcome to my profile. I'm Diogo Valente, and currently, I hold the position of Software Engineer on projects at Pagseguro Internacional.
+I'm Diogo Valente, and currently, I hold the position of Software Engineer on projects at Pagseguro Internacional.
 
 
 ## Skills  🔭:
