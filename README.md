@@ -1,8 +1,12 @@
 <div align="center">
 <img src="https://github.com/dhvalente/dhvalente/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+
 </div>
+<img src="https://github.com/dhvalente/dhvalente/blob/main/name.gif" alt="GitHub Logo" height="150" />
+
 # Welcome To My GitHub Profile !
-Seja muito bem-vindo ao meu perfil. Sou Diogo Valente, e neste momento, ocupo a posição de desenvolvedor fullstack em projetos no Banco Bradesco. Tenho uma verdadeira paixão por desafios, acreditando que quanto mais desafiadora a tarefa, mais gratificante será o resultado. Destaco-me pela minha determinação e dedicação, estou sempre em busca de ampliar meu conhecimento e experiências.
+
+Welcome to my profile. I'm Diogo Valente, and currently, I hold the position of Software Engineer on projects at Pagseguro Internacional.
 
 
 ## Skills  🔭:
