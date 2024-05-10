@@ -1,21 +1,18 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-
-
+<div align="center">
+<img src="https://github.com/dhvalente/dhvalente/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+# Welcome To My GitHub Profile !
 Seja muito bem-vindo ao meu perfil. Sou Diogo Valente, e neste momento, ocupo a posição de desenvolvedor fullstack em projetos no Banco Bradesco. Tenho uma verdadeira paixão por desafios, acreditando que quanto mais desafiadora a tarefa, mais gratificante será o resultado. Destaco-me pela minha determinação e dedicação, estou sempre em busca de ampliar meu conhecimento e experiências.
 
 
-- 🔭 Atualmente Desenvolvedor Fullstack na Foursys utilizando Java e Angular/JSP/JSF.
-- 🌱 Estou aprendendo:<br><br>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40"/>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40"/>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40"/>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <br><br>
-                                 
-- 📫 Como entrar em contato comigo: 
+## Skills  🔭:
+- 👨‍💻 Java, Kotlin, PHP, Python etc...
+- ⚙️ Angular, React
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
+
+## Contacts  📫:
+
 <div>
 <a href = "mailto:diogohvalente@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diogo-henrique-valente" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -23,5 +20,8 @@ Seja muito bem-vindo ao meu perfil. Sou Diogo Valente, e neste momento, ocupo a 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5544999801158"/></a>
 </div>
 
+## GitHub Stats  📌:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhvalente&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhvalente&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
