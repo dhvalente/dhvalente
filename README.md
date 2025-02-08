@@ -2,7 +2,6 @@
 <img src="https://github.com/dhvalente/dhvalente/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 
 </div>
-<img src="https://github.com/dhvalente/dhvalente/blob/main/name.gif" alt="GitHub Logo" height="150" />
 
 # Welcome To My GitHub Profile !
 
